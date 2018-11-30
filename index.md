@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+---
+title: Manual intern de utilizare Selfpower
+---
 
-You can use the [editor on GitHub](https://github.com/AlexInntekt/selfpowerWiki/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+# Despre manual si intrebuintare
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Acesta este un manual de utilizare al site-ului, destinat exclusiv membrilor asociatiei Selfpower.
+Are scopul de a indruma in utlizarea de baza a site-ului, accesul/introducerea de articole si continut, prezentarea functionalitatilor prezente si in curs de dezvoltare.
 
-### Markdown
+ Pentru nelamuriri contactati
+ alexandru.manolescu@selfpower.ro
+ 0040 773 995 330
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+* [Despre](https://alexinntekt.github.io/selfpowerWiki/despre)
+* [Functia de contact](https://alexinntekt.github.io/selfpowerWiki/functiaDeContact)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlexInntekt/selfpowerWiki/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

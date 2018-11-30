@@ -2,7 +2,7 @@
 title: Sectiunea si formularul de contact catre membrii asociatiei
 ---
 
-# Despre manual si intrebuintare
+# Sectiunea si formularul de contact catre membrii asociatiei
 
 Sectiunea de contact este functionabila si are protectie anti-bots prin reCaptcha.
 Formularul completat este trimis de pe webmaster@selfpower.ro catre office@selfpower.ro.
@@ -10,6 +10,8 @@ Formularul completat este trimis de pe webmaster@selfpower.ro catre office@selfp
 
 Stare: functionabila
 
-
+```
+### Menu manual:
 * [Despre](https://alexinntekt.github.io/selfpowerWiki/despre)
 * [Functia de contact](https://alexinntekt.github.io/selfpowerWiki/functiaDeContact)
+```
