@@ -10,8 +10,7 @@ Formularul completat este trimis de pe webmaster@selfpower.ro catre office@selfp
 
 Stare: functionabila
 
-```
+
 ### Menu manual:
 * [Despre](https://alexinntekt.github.io/selfpowerWiki/despre)
 * [Functia de contact](https://alexinntekt.github.io/selfpowerWiki/functiaDeContact)
-```
