@@ -12,6 +12,6 @@ Stare: functionabila
 
 
 ### Menu manual:
-* [Despre](https://alexinntekt.github.io/selfpowerWiki/despre)
-* [Functia de contact](https://alexinntekt.github.io/selfpowerWiki/functiaDeContact)
-* [Fereastra de chat](https://alexinntekt.github.io/selfpowerWiki/chatInteractiv)
+* [Despre prezentul manual](https://alexinntekt.github.io/selfpowerWiki/despre)   
+* [Functia de contact](https://alexinntekt.github.io/selfpowerWiki/functiaDeContact)   
+* [Fereastra de chat](https://alexinntekt.github.io/selfpowerWiki/chatInteractiv)    
