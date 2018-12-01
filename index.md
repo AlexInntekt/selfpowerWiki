@@ -14,7 +14,8 @@ Are scopul de a indruma in utlizarea de baza a site-ului, accesul/introducerea d
 
 
 
-### Menu manual:
-* [Despre prezentul manual](https://alexinntekt.github.io/selfpowerWiki/despre)   
+### Menu manual: 
+* [Despre prezentul manual](https://alexinntekt.github.io/selfpowerWiki/despre)    
 * [Functia de contact](https://alexinntekt.github.io/selfpowerWiki/functiaDeContact)   
 * [Fereastra de chat](https://alexinntekt.github.io/selfpowerWiki/chatInteractiv)    
+* [Procesor de donatii](https://alexinntekt.github.io/selfpowerWiki/procesorDonatii) 
