@@ -15,4 +15,5 @@ Stare: functionabila
 * [Despre prezentul manual](https://alexinntekt.github.io/selfpowerWiki/despre)    
 * [Functia de contact](https://alexinntekt.github.io/selfpowerWiki/functiaDeContact)   
 * [Fereastra de chat](https://alexinntekt.github.io/selfpowerWiki/chatInteractiv)    
-* [Procesor de donatii](https://alexinntekt.github.io/selfpowerWiki/procesorDonatii) 
+* [Procesor de donatii](https://alexinntekt.github.io/selfpowerWiki/procesorDonatii)
+* [Printer echipa](https://alexinntekt.github.io/selfpowerWiki/printer)  
